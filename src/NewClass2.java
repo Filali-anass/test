@@ -9,5 +9,6 @@
  * @author filali
  */
 public class NewClass2 {
-    
+    int yassir;
+    int tst;
 }
