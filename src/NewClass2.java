@@ -8,7 +8,6 @@
  *
  * @author filali
  */
-public class NewClass1 {
-
-    String var = "Khalid";
+public class NewClass2 {
+    //yasser
 }
