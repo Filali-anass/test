@@ -11,4 +11,6 @@
 public class NewClass2 {
     //yasser
     
+    int yassir;
+    int tst3;
 }
