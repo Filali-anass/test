@@ -9,5 +9,6 @@
  * @author ELITE
  */
 public class NewClassKhalid {
+    NewClass2 class2 = new NewClass2();
     
 }
