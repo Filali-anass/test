@@ -10,5 +10,6 @@
  */
 public class NewClassKhalid {
     int yassir ;
+    NewClass2 class2 = new NewClass2();
     
 }
